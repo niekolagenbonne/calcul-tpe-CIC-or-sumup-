@@ -1,4 +1,4 @@
-
+#ce code calcul selon ton salaire ce qui est le plus rentable de prendre comme tpe
 def salaire_de_la_personne():
     salaire_int = 0 
     while salaire_int == 0:
